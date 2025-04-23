@@ -1,6 +1,6 @@
 # Active-Directory-Project
 Actived Directory Project I did in march 2025, will do another one soon.
-<h1>Windows server 2019 Virutla active directory project</h1>
+<h1>Windows server 2019 Virtual active directory project</h1>
 
 <h2>Description</h2>
 This Project was done as a class project to learn the understandings on how to create an active directory on a Virtual Machine, creating a Domain Controller and a DHCP server
@@ -27,7 +27,7 @@ This Project was done as a class project to learn the understandings on how to c
 <h2> Walk-through:</h2>
 
 <p align="center">
-We make my server active director first after setting up the Virtual PC. : <br/>
+We make my server active directory first after setting up the Virtual PC. : <br/>
 <img src="https://i.imgur.com/vXsPqXz.png" height="80%" width="80%" alt="Active Domain Steps"/>
 <br />
 <br />
@@ -35,24 +35,24 @@ The DHCP Server is set up. That way we have a default gateway:  <br/>
 <img src="https://i.imgur.com/09UpdNH.png" height="80%" width="80%" alt="Active Domain Steps"/>
 <br />
 <br />
-Servers are both up: <br/>
+Server networks are both up: <br/>
 <img src="https://i.imgur.com/Kob9xp7.png" height="80%" width="80%" alt="Active Domain Steps"/>
 <br />
 <br />
-Remote Active:  <br/>
+Here we can see that both DHCP and IPv4 are up along side Remote Access:  <br/>
+<img src="https://i.imgur.com/DxBnFPv.png" height="80%" width="80%" alt="Active Domain Steps"/>
+<br />
+<br />
+If we go back in time we can see it took a while for everything to get running. Here is Remote Access getting installed:  <br/>
 <img src="https://i.imgur.com/CTPKWmE.png" height="80%" width="80%" alt="Active Domain Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Active Domain Steps"/>
+We Used Powershell to add a bunch of users into the directory:  <br/>
+<img src="https://i.imgur.com/ZSym1mR.png" height="80%" width="80%" alt="Active Domain Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Active Domain Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Active Domain Steps"/>
+The script is finished and all the users are added:  <br/>
+<img src="https://i.imgur.com/6IgiEyu.png" height="80%" width="80%" alt="Active Domain Steps"/>
 </p>
 
 <!--
