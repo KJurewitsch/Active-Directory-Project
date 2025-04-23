@@ -22,7 +22,9 @@ This Project was done as a class project to learn the understandings on how to c
 
 - <b>DHCP</b>
 - <b> Domain Controller</b>
-- <b> IP Address</b>
+- <b> IP Addresses</b>
+- <b> Scripting for Powershell</b>
+- <b> Virtual Networking</b>
 
 <h2> Walk-through:</h2>
 
