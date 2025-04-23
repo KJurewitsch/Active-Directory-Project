@@ -3,10 +3,11 @@ Actived Directory Project I did in march 2025.
 <h1>Windows server 2019 Virtual active directory project</h1>
 
 <h2>Description</h2>
-This Project was done as a class project to learn the understandings on how to create an active directory on a Virtual Machine, creating a Domain Controller and a DHCP server
+This Project was done as a class project to learn the understandings on how to create an active directory on a Virtual Machine, creating a Domain Controller and a DHCP server.
+<br />
 Basically, this would be an active domain main for the first time for a company.
 <br />
-TODO: Add more descriptions
+TODO: Add more descriptions, add the client.
 <br />
 
 <h2>Languages and Utilities Used</h2>
